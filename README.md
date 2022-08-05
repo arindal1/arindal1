@@ -1,4 +1,4 @@
-##Hi! @arindal1 here.
+## Hi! @arindal1 here.
 
 *Currently majoring in* **Computer Science** *from* **University of Enginerring and Management**
 
