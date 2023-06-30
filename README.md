@@ -7,7 +7,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   </div>
-<h3 align="center">A 2nd year Computer Science Student</h3>
+<h3 align="center">A 3rd year Computer Science Student</h3>
 <h5 align="center">University of Engineering and Management</h5>
 <br>
 </br>
