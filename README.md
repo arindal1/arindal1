@@ -31,3 +31,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arindal1&show_icons=true&theme=dark&locale=en" alt="arindal1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arindal1&" alt="arindal1" /></p>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/arindal1/count.svg?"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/arindal1/arindal1/output/snake.svg" alt="Snake animation" />
+
+###
