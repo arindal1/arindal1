@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arindal1&label=Visitor%20Count&color=3e2b73&style=flat" alt="arindal1" /> </p>
 
 
-- 🔭 I’m currently working on **some ML projects.**
+- 🔭 I’m currently working on **a Face Recognition system.**
 
 - 👨‍💻 All of my projects are available at [https://arindal1.github.io/portfolio-website/](https://arindal1.github.io/portfolio-website/)
 
