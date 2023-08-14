@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arindal Char</h1>
+![I'm Arindal Char](resources/banner1.png)
 <h3 align="center">A coder, developer, ML & Tech enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arindal1&label=Profile%20views&color=0e75b6&style=flat" alt="arindal1" /> </p>
