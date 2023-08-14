@@ -1,4 +1,4 @@
-![I'm Arindal Char](https://drive.google.com/file/d/16_27zDCZeM1CKkhwWD6Xo3kEWYXW_T-7/view?usp=sharing)
+![I'm Arindal Char](resources/banner1.jpg)
 <h3 align="center">A coder, developer, ML & Tech enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arindal1&label=Profile%20views&color=0e75b6&style=flat" alt="arindal1" /> </p>
