@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact: **Astronauts grow taller in space!**
 
+![hacker pepe](resources/hacker-pepe.gif)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arindalchar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arindalchar" height="30" width="40" /></a>
@@ -24,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arindal1&show_icons=true&locale=en&layout=compact" alt="arindal1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arindal1&" alt="arindal1" /></p>
+
+![pacman](resources/pacman-gaming.gif)
