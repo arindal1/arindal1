@@ -27,4 +27,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arindal1&" alt="arindal1" /></p>
 
-![pacman](resources/pacman-gaming.gif)
