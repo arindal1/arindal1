@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arindal1&label=Profile%20views&color=0e75b6&style=flat" alt="arindal1" /> </p>
 
-- 🔭 I’m currently working on [Face Detection using OpenCV](https://github.com/arindal1/Face-Detector)
+- 🔭 I’m currently not working on anything major.
 
 - 🌱 I’m currently learning: **React, MongoDB, Deep Learning, ...**
 
