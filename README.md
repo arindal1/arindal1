@@ -17,7 +17,7 @@ const aboutMe = {
       mobile: ["Android"]
       machineLearning: {
          pythonLib: ["Numpy", "Pandas", "Scikit", "Matplot", "Seaborn", "TensorFlow", "Keras", "OpenCV"]
-   },
+      },
    codeBase: ["VSCode", "JupyterNotebook", "pyCharm", "GoogleCollab", "Obsidian"]
    },
    currentOccupation: ["3rd year CS student, open for internship opportunities"],
