@@ -1,4 +1,4 @@
-<h1> Hey there, I'm <span style="color: #FFD700">Arindal1</span>! 🚀 </h1>
+# Hey there, I'm <span style="color: #FFD700">Arindal1</span>! 🚀
 
 ```python
 const aboutMe = {
