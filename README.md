@@ -27,8 +27,10 @@ const aboutMe = {
 ```
 
 <pre>
-Email:    <a href = "mailto: arindalchar17@gmail.com">arindalchar17@gmail.com</a>
-Site:     <a href="https://arindal1.github.io/portfolio-website/">arindal1.github.io</a>
-Telegram: <a href="https://t.me/arindal">@arindal</a>
-LinkedIn: <a href="https://www.linkedin.com/in/arindalchar/">Arindal Char</a>
+const contactMe = {
+   Email:    <a href = "mailto: arindalchar17@gmail.com">arindalchar17@gmail.com</a>
+   Site:     <a href="https://arindal1.github.io/portfolio-website/">arindal1.github.io</a>
+   Telegram: <a href="https://t.me/arindal">@arindal</a>
+   LinkedIn: <a href="https://www.linkedin.com/in/arindalchar/">Arindal Char</a>
+};
 </pre>
