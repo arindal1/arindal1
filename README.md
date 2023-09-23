@@ -16,9 +16,9 @@ const aboutMe = {
       databases: ["MongoDB", "mySQL"],
       mobile: ["Android"]
       machineLearning: {
-         pythonLib: ["Numpy", "Pandas", "Scikit", "Matplot", "Seaborn", "TensorFlow", "Keras", "OpenCV"],
-         codeBase: ["JupyterNotebook", "pyCharm", "GoogleCollab"]
-      }
+         pythonLib: ["Numpy", "Pandas", "Scikit", "Matplot", "Seaborn", "TensorFlow", "Keras", "OpenCV"]
+   },
+   codeBase: ["VSCode", "JupyterNotebook", "pyCharm", "GoogleCollab", "Obsidian"]
    },
    currentOccupation: ["3rd year CS student, open for internship opportunities"],
    interests: ["android & web dev", "competetive coding", "machine learning", "tech and more..."],
