@@ -1,7 +1,5 @@
 <h1> Hey there, I'm <span style="color: #FFD700">Arindal1</span>! 🚀 </h1>
 
-**I'm a CS Undergrad, who likes android & web development, competetive coding, machine learning, tech, and more... 🕹️** <br>
-
 ```python
 const aboutMe = {
    code: [Javascript, CPP, Python, Java],
