@@ -21,7 +21,7 @@ const aboutMe = {
       }
    },
    currentOccupation: ["3rd year CS student, open for internship opportunities"],
-   interests: [android & web dev, competetive coding, machine learning, tech, and more...],
+   interests: ["android & web dev", "competetive coding", "machine learning", "tech and more..."],
    challenge: "I'm working towards being able to run a marathon using code",
 };
 ```
