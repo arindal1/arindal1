@@ -4,24 +4,27 @@
 
 ```python
 const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
+   code: [Javascript, CPP, Python, Java],
    technologies: {
       frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
+         python: ["Streamlit", "Flask"]
+         js: ["React"],
+         css: ["Tailwinds", "Sass", "Bootstrap"]
       },
       backEnd: {
-         java: ["Spring"],
          js: ["Node", "Express"],
-         csharp: ["Asp.net Core"],
-         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
+         misc: ["Bash", "Git"]
       },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
-      mobile: ["Android", "IOS"]
+      databases: ["MongoDB", "mySQL"],
+      mobile: ["Android"]
+      machineLearning: {
+         pythonLib: ["Numpy", "Pandas", "Scikit", "Matplot", "Seaborn", "TensorFlow", "Keras", "OpenCV"],
+         codeBase: ["JupyterNotebook", "pyCharm", "GoogleCollab"]
+      }
    },
-   currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
+   currentOccupation: ["3rd year CS student, open for internship opportunities"],
+   interests: ["android & web dev", "competetive coding", "machine learning", "tech", "and more..."],
+   challenge: "I'm working towards being able to run a marathon using code",
 };
 ```
 
