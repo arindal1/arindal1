@@ -2,10 +2,28 @@
 
 **I'm a CS Undergrad, who likes android & web development, competetive coding, machine learning, tech, and more... 🕹️** <br>
 
-<h3><span style="color: #FFD700">Technologies & Tools:</span></h3>
-
-**Cpp, Java, Python, HTML, CSS, JavaScript, NodeJs, React, MySQL, MongoDB, and more...** <br>
-
+```python
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Angular"],
+         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
+      },
+      backEnd: {
+         java: ["Spring"],
+         js: ["Node", "Express"],
+         csharp: ["Asp.net Core"],
+         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
+      },
+      databases: ["MongoDB", "mySQL", "SQLServer"],
+      mobile: ["Android", "IOS"]
+   },
+   currentOccupation: ["last year student, open for job opportunities"],
+   challenge: "I'm working towards being able to run a marathon.",
+};
+```
 
 <pre>
 Email:    <a href = "mailto: arindalchar17@gmail.com">arindalchar17@gmail.com</a>
