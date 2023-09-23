@@ -3,7 +3,7 @@
 **I'm a CS Undergrad, who likes android & web development, competetive coding, machine learning, tech, and more... 🕹️**
 
 <h3><span style="color: #FFD700">Technologies & Tools:</span></h3>
-*Cpp, Java, Python, HTML, CSS, JavaScript, NodeJs, React, MySQL, MongoDB, and more...*
+### Cpp, Java, Python, HTML, CSS, JavaScript, NodeJs, React, MySQL, MongoDB, and more...
 
 
 <pre>
