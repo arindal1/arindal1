@@ -1,37 +1,33 @@
 <div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
   <h1 style="color: #333;">Hey there! I'm arindal1 🚀</h1>
-
-  <pre>
-  <code>
-    const aboutMe = {
-      code: ["Javascript", "CPP", "Python", "Java"],
-      technologies: {
-        frontEnd: {
-          python: ["Streamlit", "Flask"],
-          js: ["React"],
-          css: ["Tailwinds", "Sass", "Bootstrap"]
-        },
-        backEnd: {
-          js: ["Node", "Express"],
-          misc: ["Bash", "Git"]
-        },
-        databases: ["MongoDB", "mySQL"],
-        mobile: ["Android"],
-        machineLearning: {
-          pythonLib: ["Numpy", "Pandas", "Scikit", "Matplot", "Seaborn", "TensorFlow", "Keras", "OpenCV"]
-        }
-      },
-      codeBase: ["VSCode", "JupyterNotebook", "pyCharm", "GoogleCollab", "Obsidian"],
-      currentOccupation: ["3rd year CS student, open for internship opportunities"],
-      interests: ["android & web dev", "competitive coding", "machine learning", "tech and more..."],
-      challenge: "I'm working towards being able to run a marathon using code"
-    };
-    
-    console.log(aboutMe); // Print the aboutMe object to the console
-  </code>
-  </pre>
 </div>
 
+```javascript
+const aboutMe = {
+  code: ["Javascript", "CPP", "Python", "Java"],
+  technologies: {
+    frontEnd: {
+      python: ["Streamlit", "Flask"],
+      js: ["React"],
+      css: ["Tailwinds", "Sass", "Bootstrap"]
+    },
+    backEnd: {
+      js: ["Node", "Express"],
+      misc: ["Bash", "Git"]
+    },
+    databases: ["MongoDB", "mySQL"],
+    mobile: ["Android"],
+    machineLearning: {
+      pythonLib: ["Numpy", "Pandas", "Scikit", "Matplot", "Seaborn", "TensorFlow", "Keras", "OpenCV"]
+    }
+  },
+  codeBase: ["VSCode", "JupyterNotebook", "pyCharm", "GoogleCollab", "Obsidian"],
+  currentOccupation: ["3rd year CS student, open for internship opportunities"],
+  interests: ["android & web dev", "competitive coding", "machine learning", "tech and more..."],
+  challenge: "I'm working towards being able to run a marathon using code"
+};
+console.log(aboutMe);
+```
 
 <pre>
 const contactMe = {
