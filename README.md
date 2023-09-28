@@ -15,6 +15,7 @@
   <img src="resources/linkedin.jpg" alt="linkedin" width="80px">
 </a>
 </div>
+
 ```javascript
 const aboutMe = {
   code: ["Javascript", "CPP", "Python", "Java"],
