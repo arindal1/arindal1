@@ -1,7 +1,7 @@
 <div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
   <h1 style="color: #333;">Hey there! I'm arindal1 🚀</h1>
 </div>
-
+<div>
 <a href="https://github.com/arindal1">
   <img src="resources/github.jpg" alt="github" width="80px">
 </a>
@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/arindalchar/">
   <img src="resources/linkedin.jpg" alt="linkedin" width="80px">
 </a>
-
+</div>
 ```javascript
 const aboutMe = {
   code: ["Javascript", "CPP", "Python", "Java"],
