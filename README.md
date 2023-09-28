@@ -2,6 +2,10 @@
   <h1 style="color: #333;">Hey there! I'm arindal1 🚀</h1>
 </div>
 
+<a href="https://github.com/arindal1">
+  <img src="resources/github.jpg" alt="github" width="300px">
+</a>
+
 ```javascript
 const aboutMe = {
   code: ["Javascript", "CPP", "Python", "Java"],
