@@ -3,7 +3,16 @@
 </div>
 
 <a href="https://github.com/arindal1">
-  <img src="resources/github.jpg" alt="github" width="300px">
+  <img src="github.jpg" alt="github" width="80px">
+</a>
+<a href="https://www.reddit.com/user/MasterNoir">
+  <img src="reddit.jpg" alt="reddit" width="80px">
+</a>
+<a href="https://twitter.com/arindal_17">
+  <img src="twitter.jpg" alt="twitter" width="80px">
+</a>
+<a href="https://www.linkedin.com/in/arindalchar/">
+  <img src="linkedin.jpg" alt="linkedin" width="80px">
 </a>
 
 ```javascript
