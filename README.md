@@ -1,4 +1,4 @@
-<div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
+<div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;" align="center">
   <h1 style="color: #333;">Hey there! I'm arindal1 🚀</h1>
 </div>
 <div>
