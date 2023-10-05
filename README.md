@@ -54,4 +54,4 @@ const contactMe = {
 </pre>
 
 
-[//] ![arindal1 stats](https://github-readme-stats.vercel.app/api?username=arindal1&show_icons=true&theme=tokyonight)
+<!-- ![arindal1 stats](https://github-readme-stats.vercel.app/api?username=arindal1&show_icons=true&theme=tokyonight) -->
