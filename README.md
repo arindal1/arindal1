@@ -14,6 +14,7 @@
 <a href="https://www.linkedin.com/in/arindalchar/">
   <img src="resources/linkedin.jpg" alt="linkedin" width="80px">
 </a>
+  ![arindal1 stats](https://github-readme-stats.vercel.app/api?username=arindal1&show_icons=true&theme=tokyonight)
 </div>
 
 ```javascript
