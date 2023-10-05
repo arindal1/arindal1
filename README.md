@@ -15,7 +15,6 @@
   <img src="resources/linkedin.jpg" alt="linkedin" width="80px">
 </a>
 </div>
- ![arindal1 stats](https://github-readme-stats.vercel.app/api?username=arindal1&show_icons=true&theme=tokyonight)
  
 ```javascript
 const aboutMe = {
@@ -53,3 +52,6 @@ const contactMe = {
    LeetCode: <a href="https://leetcode.com/arindal/">arindal</a>
 };
 </pre>
+
+
+![arindal1 stats](https://github-readme-stats.vercel.app/api?username=arindal1&show_icons=true&theme=tokyonight)
