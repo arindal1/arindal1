@@ -43,15 +43,15 @@ const aboutMe = {
 console.log(aboutMe);
 ```
 
-<pre>
+```javascript
 const contactMe = {
-   Email:    <a href = "mailto: arindalchar17@gmail.com">arindalchar17@gmail.com</a>
-   Site:     <a href="https://arindal1.github.io/portfolio-website/">arindal1.github.io</a>
-   Telegram: <a href="https://t.me/arindal">@arindal</a>
-   Kaggle:   <a href="https://www.kaggle.com/arindal">arindal</a>
+   Email:    <a href = "mailto: arindalchar17@gmail.com">arindalchar17@gmail.com</a>,
+   Site:     <a href="https://arindal1.github.io/portfolio-website/">arindal1.github.io</a>,
+   Telegram: <a href="https://t.me/arindal">@arindal</a>,
+   Kaggle:   <a href="https://www.kaggle.com/arindal">arindal</a>,
    LeetCode: <a href="https://leetcode.com/arindal/">arindal</a>
 };
-</pre>
+```
 
 
 <!-- ![arindal1 stats](https://github-readme-stats.vercel.app/api?username=arindal1&show_icons=true&theme=tokyonight) -->
