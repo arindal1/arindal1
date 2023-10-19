@@ -2,18 +2,10 @@
   <h1 style="color: #333;">Hey there! I'm arindal1 🚀</h1>
 </div>
 <div align="center">
-<a href="https://github.com/arindal1">
-  <img src="https://github.com/arindal1/arindal1/assets/110285827/547b3858-7e93-4486-8f76-ca18bfec56ad" alt="github" width="40px">
-</a>
-<a href="https://www.reddit.com/user/MasterNoir">
-  <img src="https://github.com/arindal1/arindal1/assets/110285827/6aba40df-c504-4671-af7f-c09f3f229509" alt="reddit" width="40px">
-</a>
-<a href="https://twitter.com/arindal_17">
-  <img src="https://github.com/arindal1/arindal1/assets/110285827/b323a978-3d11-4529-91f2-670835302af0" alt="twitter" width="40px">
-</a>
-<a href="https://www.linkedin.com/in/arindalchar/">
-  <img src="https://github.com/arindal1/arindal1/assets/110285827/7f8d23f8-ca3c-4173-a300-3392ba1072d4" alt="linkedin" width="40px">
-</a>
+<a href="https://github.com/arindal1"><img src="https://github.com/arindal1/arindal1/assets/110285827/b162e876-2100-42dd-8c5c-75321e2b39b3" alt="github" width="40px"></a>
+<a href="https://www.reddit.com/user/MasterNoir"><img src="https://github.com/arindal1/arindal1/assets/110285827/16f7b9f8-eafe-40d7-904e-9c95f8c248e6" alt="reddit" width="40px"></a>
+<a href="https://twitter.com/arindal_17"><img src="https://github.com/arindal1/arindal1/assets/110285827/f59c37f1-ad49-489b-bdf2-2847b7e03073" alt="twitter" width="40px"></a>
+<a href="https://www.linkedin.com/in/arindalchar/"><img src="https://github.com/arindal1/arindal1/assets/110285827/b0cfa783-f91c-41be-9a27-f48cc5a4bb51" alt="linkedin" width="40px"></a>
 </div>
  
 ```javascript
