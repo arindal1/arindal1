@@ -3,7 +3,7 @@
 </div>
 <div align="center">
 <a href="https://github.com/arindal1">
-  <img src="https://github.com/arindal1/arindal1/assets/110285827/7e7b91c9-c054-4d6a-a8ea-f8284aa7268b" alt="github" width="40px">
+  <img src="https://github.com/arindal1/arindal1/assets/110285827/547b3858-7e93-4486-8f76-ca18bfec56ad" alt="github" width="40px">
 </a>
 <a href="https://www.reddit.com/user/MasterNoir">
   <img src="https://github.com/arindal1/arindal1/assets/110285827/6aba40df-c504-4671-af7f-c09f3f229509" alt="reddit" width="40px">
