@@ -7,8 +7,6 @@
 <a href="https://twitter.com/arindal_17"><img src="https://github.com/arindal1/arindal1/assets/110285827/f59c37f1-ad49-489b-bdf2-2847b7e03073" alt="twitter" width="40px"></a>
 <a href="https://www.linkedin.com/in/arindalchar/"><img src="https://github.com/arindal1/arindal1/assets/110285827/b0cfa783-f91c-41be-9a27-f48cc5a4bb51" alt="linkedin" width="40px"></a>
 </div>
-
-[![text](https://github.com/arindal1/arindal1/assets/110285827/b162e876-2100-42dd-8c5c-75321e2b39b3)](https://github.com/arindal1)
  
 ```javascript
 const aboutMe = {
