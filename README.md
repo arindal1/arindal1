@@ -3,16 +3,16 @@
 </div>
 <div align="center">
 <a href="https://github.com/arindal1">
-  <img src="https://github.com/arindal1/arindal1/assets/110285827/9d248c64-bc90-4acc-b68c-3cb119f35895" alt="github" width="80px">
+  <img src="https://github.com/arindal1/arindal1/assets/110285827/7e7b91c9-c054-4d6a-a8ea-f8284aa7268b" alt="github" width="40px">
 </a>
 <a href="https://www.reddit.com/user/MasterNoir">
-  <img src="https://github.com/arindal1/arindal1/assets/110285827/78ff020d-336c-4223-8f15-66da78aae42a" alt="reddit" width="80px">
+  <img src="https://github.com/arindal1/arindal1/assets/110285827/6aba40df-c504-4671-af7f-c09f3f229509" alt="reddit" width="40px">
 </a>
 <a href="https://twitter.com/arindal_17">
-  <img src="https://github.com/arindal1/arindal1/assets/110285827/b323a978-3d11-4529-91f2-670835302af0" alt="twitter" width="80px">
+  <img src="https://github.com/arindal1/arindal1/assets/110285827/b323a978-3d11-4529-91f2-670835302af0" alt="twitter" width="40px">
 </a>
 <a href="https://www.linkedin.com/in/arindalchar/">
-  <img src="https://github.com/arindal1/arindal1/assets/110285827/89558726-9ae6-472c-bf96-1e1f42cc6997" alt="linkedin" width="80px">
+  <img src="https://github.com/arindal1/arindal1/assets/110285827/7f8d23f8-ca3c-4173-a300-3392ba1072d4" alt="linkedin" width="40px">
 </a>
 </div>
  
