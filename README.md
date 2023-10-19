@@ -3,16 +3,16 @@
 </div>
 <div align="center">
 <a href="https://github.com/arindal1">
-  <img src="resources/github.jpg" alt="github" width="80px">
+  <img src="https://github.com/arindal1/arindal1/assets/110285827/9d248c64-bc90-4acc-b68c-3cb119f35895" alt="github" width="80px">
 </a>
 <a href="https://www.reddit.com/user/MasterNoir">
-  <img src="resources/reddit.jpg" alt="reddit" width="80px">
+  <img src="https://github.com/arindal1/arindal1/assets/110285827/78ff020d-336c-4223-8f15-66da78aae42a" alt="reddit" width="80px">
 </a>
 <a href="https://twitter.com/arindal_17">
-  <img src="resources/twitter.jpg" alt="twitter" width="80px">
+  <img src="https://github.com/arindal1/arindal1/assets/110285827/b323a978-3d11-4529-91f2-670835302af0" alt="twitter" width="80px">
 </a>
 <a href="https://www.linkedin.com/in/arindalchar/">
-  <img src="resources/linkedin.jpg" alt="linkedin" width="80px">
+  <img src="https://github.com/arindal1/arindal1/assets/110285827/89558726-9ae6-472c-bf96-1e1f42cc6997" alt="linkedin" width="80px">
 </a>
 </div>
  
