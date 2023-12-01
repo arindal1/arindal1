@@ -30,13 +30,13 @@ const aboutMe = {
 console.log(aboutMe);
 ```
 
-```javascript
+<pre>
 const contactMe = {
    Email:    <a href = "mailto: arindalchar17@gmail.com">arindalchar17@gmail.com</a>,
    Site:     <a href="https://arindal1.github.io/portfolio-website/">arindal1.github.io</a>,
    LeetCode: <a href="https://leetcode.com/arindal/">arindal</a>
 };
-```
+</pre>
 
 
 <!-- ![arindal1 stats](https://github-readme-stats.vercel.app/api?username=arindal1&show_icons=true&theme=tokyonight) -->
