@@ -25,7 +25,7 @@ const aboutMe = {
   codeBase: ["VSCode", "JupyterNotebook", "pyCharm", "GoogleCollab", "Obsidian"],
   currentOccupation: ["3rd year CS student, open for internship opportunities"],
   interests: ["android & web dev", "competitive coding", "machine learning", "tech and more..."],
-  challenge: "I'm working towards being able to run a marathon using code"
+  bio: "i like to spend hours to automate a 10 minute task so that i can do it in few seconds"
 };
 console.log(aboutMe);
 ```
