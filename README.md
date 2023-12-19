@@ -1,9 +1,9 @@
-<div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;" align="center">
-  <h1 style="color: #333;">Hey there! I'm arindal1 🚀</h1>
-</div>
 
+![header](resources/12.png)
  
 ```javascript
+console.log("Hey there! I'm arindal1");
+
 const aboutMe = {
   code: ["Javascript", "CPP", "Python", "Java"],
   technologies: {
@@ -29,6 +29,7 @@ const aboutMe = {
 };
 console.log(aboutMe);
 ```
+![header](resources/13.png)
 
 <pre>
 const contactMe = {
@@ -37,6 +38,6 @@ const contactMe = {
    LeetCode: <a href="https://leetcode.com/arindal/">arindal</a>
 };
 </pre>
-
+![header](resources/14.png)
 
 <!-- ![arindal1 stats](https://github-readme-stats.vercel.app/api?username=arindal1&show_icons=true&theme=tokyonight) -->
