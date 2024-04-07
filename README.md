@@ -5,18 +5,19 @@
 console.log("Hey there! I'm arindal1");
 
 const aboutMe = {
-  code: ["Javascript", "CPP", "Python", "Java"],
+  code: ["Javascript", "CPP", "Python", "Java", "Rust", "R"],
   technologies: {
     frontEnd: {
       python: ["Streamlit", "Flask"],
-      js: ["React"],
+      js: ["React", "Svelte "],
       css: ["Tailwinds", "Sass", "Bootstrap"]
     },
     backEnd: {
+      python: ["Django"],
       js: ["Node", "Express"],
       misc: ["Bash", "Git", "Shell", "Prolog", "Matlab"]
     },
-    databases: ["MongoDB", "mySQL"],
+    databases: ["MongoDB", "mySQL", "Oracle"],
     mobile: ["Android", "Kotlin"],
     machineLearning: {
       pythonLib: ["Numpy", "Pandas", "Scikit", "Matplot", "Seaborn", "TensorFlow", "Keras", "OpenCV"]
