@@ -16,6 +16,6 @@ const contactMe = {
    LeetCode: <a href="https://leetcode.com/arindal/">arindal</a>
 };
 </pre>
-![header](resources/14.png)
+![header](res/14.png)
 
 <!-- ![arindal1 stats](https://github-readme-stats.vercel.app/api?username=arindal1&show_icons=true&theme=tokyonight) -->
