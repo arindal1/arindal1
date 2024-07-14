@@ -1,41 +1,18 @@
-
-![header](resources/12.png)
- 
-```javascript
-console.log("Hey there! I'm arindal1");
-
-const aboutMe = {
-  code: ["Javascript", "CPP", "Python", "Java", "Rust", "R"],
-  technologies: {
-    frontEnd: {
-      python: ["Streamlit", "Flask"],
-      js: ["React", "Svelte "],
-      css: ["Tailwinds", "Sass", "Bootstrap"]
-    },
-    backEnd: {
-      python: ["Django"],
-      js: ["Node", "Express"],
-      misc: ["Bash", "Git", "Shell", "Prolog", "Matlab"]
-    },
-    databases: ["MongoDB", "mySQL", "Oracle"],
-    mobile: ["Android", "Kotlin"],
-    machineLearning: {
-      pythonLib: ["Numpy", "Pandas", "Scikit", "Matplot", "Seaborn", "TensorFlow", "Keras", "OpenCV"]
-    }
-  },
-  codeBase: ["VSCode", "JupyterNotebook", "pyCharm", "GoogleCollab", "Obsidian"],
-  currentOccupation: ["3rd year CS student, open for internship opportunities"],
-  interests: ["android & web dev", "competitive coding", "machine learning", "tech and more..."],
-  bio: "i like to spend hours to automate a 10 minute task so that i can do it in few seconds"
-};
-console.log(aboutMe);
-```
-![header](resources/13.png)
+<pre>
+╔═══════════════════════ Hey there! ════════════════════════╗
+║ I'm a final year CS Student from <a href="https://www.incredibleindia.org/content/incredible-india-v2/en.html"><span style="color: orange;">In</span><span style="color: white;">d</span><span style="color: green;">ia</span></a>.                   ║    😁 <a href="https://arindal1.github.io/dev-portfolio-2/">Arindal Char</a>
+║ Utilizing <a href="https://www.mongodb.com/resources/languages/mern-stack-tutorial" style="color: red;">MERN</a> and <a href="https://lakefs.io/blog/machine-learning-architecture/" style="color: red;">ML Models</a>, and learning <a href="https://docs.aws.amazon.com/">AWS</a>, <a href="https://cloud.google.com/ai/llms">LLMs</a>      ║     ├─ Development
+║ and <a href="https://cloud.google.com/use-cases/generative-ai">Generative AI</a>. I'm also interested in <a href="https://hbr.org/2022/05/what-is-web3" style="color: purple;">Web3</a> and <a href="https://doc.rust-lang.org/stable/" style="color: purple;">Rust</a>.  ║     │   ├─ <a href="https://github.com/arindal1/minesweeper-ReactJS">Minesweeper</a>
+║ Currently working on a LLM project.                       ║     │   └─ <a href=" ">Chat Room</a>
+║                                                           ║     └─ Machine Learning
+║ Besides dev I also love photography and travelling.       ║         ├─ <a href="https://github.com/arindal1/anomaly-threat-hunter-ml">Nethunter</a>
+╚═══════════════════════════════════════════════════════════╝         └─ <a href="https://github.com/arindal1/yolov5-onnx-object-recognition">YOLOv5</a>
+</pre>
 
 <pre>
 const contactMe = {
    Email:    <a href = "mailto: arindalchar17@gmail.com">arindalchar17@gmail.com</a>,
-   Site:     <a href="https://arindal1.github.io/portfolio-website/">arindal1.github.io</a>,
+   Twitter:  <a href="https://twitter.cpm/arindal_17">arindal_17</a>,
    LeetCode: <a href="https://leetcode.com/arindal/">arindal</a>
 };
 </pre>
