@@ -5,8 +5,9 @@
 ║ and <a href="https://cloud.google.com/use-cases/generative-ai">Generative AI</a>. I'm also interested in <a href="https://hbr.org/2022/05/what-is-web3" style="color: purple;">Web3</a> and <a href="https://doc.rust-lang.org/stable/" style="color: purple;">Rust</a>.  ║     │   ├─ <a href="https://github.com/arindal1/minesweeper-ReactJS">Minesweeper</a>
 ║ Currently working on a LLM project.                       ║     │   └─ <a href=" ">Chat Room</a>
 ║                                                           ║     └─ Machine Learning
-║ Besides dev I also love photography and travelling.       ║         ├─ <a href="https://github.com/arindal1/anomaly-threat-hunter-ml">Nethunter</a>
-╚═══════════════════════════════════════════════════════════╝         └─ <a href="https://github.com/arindal1/yolov5-onnx-object-recognition">YOLOv5</a>
+║ Besides development I also love photography, space and    ║         ├─ <a href="https://github.com/arindal1/anomaly-threat-hunter-ml">Nethunter</a>
+║ travelling.                                               ║         └─ <a href="https://github.com/arindal1/yolov5-onnx-object-recognition">YOLOv5</a>
+╚═══════════════════════════════════════════════════════════╝
 </pre>
 
 <pre>
