@@ -12,7 +12,7 @@
 <pre>
 const contactMe = {
    Email:    <a href = "mailto: arindalchar17@gmail.com">arindalchar17@gmail.com</a>,
-   Twitter:  <a href="https://twitter.cpm/arindal_17">arindal_17</a>,
+   Twitter:  <a href="https://twitter.com/arindal_17">arindal_17</a>,
    LeetCode: <a href="https://leetcode.com/arindal/">arindal</a>
 };
 </pre>
